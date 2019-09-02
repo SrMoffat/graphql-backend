@@ -1,0 +1,23 @@
+{
+  "name": "graphql-backend",
+  "version": "1.0.0",
+  "description": "GraphQL-based backend server running on Express with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrMoffat/graphql-backend.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Backend"
+  ],
+  "author": "4fr0c0d3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SrMoffat/graphql-backend/issues"
+  },
+  "homepage": "https://github.com/SrMoffat/graphql-backend#readme"
+}
