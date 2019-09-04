@@ -81,10 +81,13 @@ const typeDefs = `
         comments: [Comment!]!
     }
 
+<<<<<<< HEAD
     type Mutation {
         createUser(username: String!, email: String!, age: Int): User!
     }
 
+=======
+>>>>>>> d47ee9e6bc0f212211b388699f7a8c779bf74a80
     type User {
         id: ID!
         username: String!
